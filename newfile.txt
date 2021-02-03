@@ -1,1 +1,2 @@
 Text files for tesitng comaparign
+this is second line
